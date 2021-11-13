@@ -15,7 +15,7 @@ GIVEN a budget tracker without an internet connection
 ![This is an image](./budget.png)
 
 **Website**
-https://garysanchez012.github.io/budget-tracker/
+https://github.com/GarySanchez012/budget-tracker
 
 **Heroku**
 https://garys012-budget-tracker.herokuapp.com/
